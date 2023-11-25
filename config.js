@@ -6,14 +6,14 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 global.owner = process.env.OWNER_NUMBER || "923184070915"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'xheikhsalman4422@gmail.com'
-global.github = 'https://github.com/salmanytofficial/XLICON-MD'
-global.location = 'Lahore Pak'
-global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
-global.sudo = process.env.SUDO || '923184070915' 
-global.devs = '923184070915';
-global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
+global.email = 'deydebashis005@gmail.com'
+global.github = 'https://github.com/debashis121212/XLICON-MD'
+global.location = 'kolkata india'
+global.gurl = 'https://instagram.com/debashis_12321' // add your username
+global.sudo = process.env.SUDO || '919339619072' 
+global.devs = '919339619072';
+global.website = 'https://github.com/debashis121212/XLICON-MD' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || ''
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  '',

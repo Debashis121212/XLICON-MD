@@ -46,21 +46,33 @@ You Guyz Can Try My Other Bots Like ***XLICON-V2*** & ***XLICON-V3*** Which Have
 <br>
 
 ---
+## 🛠️ `Installation Procedure`
+
+
+❏FORK THE REPOSITORY 
+  <a href="https://github.com/salmanytofficial/XLICON-MD/fork" target="_blank">
+  <img src="https://img.shields.io/badge/FORK XLICON-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
+
+
+
+❏GET SESSION ID (SCAN-QR) 
+<a href="https://xlicon-qr-3282f577cf2e.herokuapp.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
+
+
+
+❑SCAN QR (REPLIT)
+<a href="https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4" target="_blank">
+  <img src="https://img.shields.io/badge/SCAN QR-black?style=for-the-badge&logo=render" alt="Authenticate With WhatsApp" width="170" height="34">
+</a>
+
 
     
-## `Installation` 📲
 
-1. Fork the repo
-    <br>
-<a href="https://github.com/salmanytofficial/XLICON-MD/fork"><img title="XLICON-1.0" src="https://img.shields.io/badge/FORK XLICON-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
-
-2. Scan the QR and upload the `Session` to ***XLICON-SECTION*** 
-    <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-MD-PAIRING-SESSION?v=1' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
-
-3. Scan Qr
-    <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-MD-QR-V4' target="_blank"><img alt='SCAN QR-2' src='https://img.shields.io/badge/Scan_qr-2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
 ## `Features`
@@ -351,13 +363,16 @@ Choose your repo
   
 | [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
 |----|
-| [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
+| [ 𝙈𝘼𝙃𝙀𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
 |  Co.Owner , Bug Fixer, |
 
   </div>
   
-   
-  </br> 
+   ## 
+| [![Xcelsama](https://github.com/Xcelsama.png?lenght=50width=50)](https://github.com/Xcelsama) |
+|----|
+| [ 乂匚乇ㄥ丂卂爪卂](https://github.com/Xcelsama) |
+|  Co.Owner , Bug Fixer,Tester
 
   ## `Support`
 
@@ -397,11 +412,13 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 </h1>
 
 * [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
+* [`🎐Xcelsama`](https://github.com/Xcelsama) ***For QR***
 * [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
 * [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
 * [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
 * [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Errors***
 * 
+
 
 ---
 

@@ -1,6 +1,5 @@
 while true
 do
-echo "Starting Xlicon-Md..."
+echo "Starting Secktor-Md..."
 node lib/client.js
 done
- 
